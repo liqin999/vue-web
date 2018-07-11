@@ -1,0 +1,30 @@
+$blue: #3190e8;  
+$bc: #e4e4e4;
+$fc:#fff;
+
+@media screen and (max-width: 1680px) {
+	.el-input__inner{
+		height: 38px;
+	}
+}
+@media screen and (max-width: 1440px) {
+	.logo_box{
+		width: 120px;
+		height: 49px;
+	}
+	.ad_register{
+		width: 290px;
+		
+	}
+	.system_title{
+		font-size: 24px !important;
+	}
+}
+@media screen and (max-width: 1200px) {
+	
+	
+}
+@media screen and (max-width: 1024px) {
+	
+	
+}
